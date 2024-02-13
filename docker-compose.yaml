@@ -1,0 +1,30 @@
+version: "3.9"
+services:
+  chat_gpt_telegram:
+    build: .
+    image: chat_gpt_telegram_core
+    
+  # chat_gpt_telegram_ru:
+    # image: chat_gpt_telegram_core
+    # restart: always
+    volumes:
+      - "./../chat_gpt_telegram/static_texts:/home/static_texts:ro"
+      - "./config:/home/config:ro"
+    # environment:
+      # HEADERS_FILE_NAME: "language_headers_ru.json"
+      # BD_PATH: "postgresql+asyncpg://skuki_net:admin@37.220.83.140/chat_gpt"
+      # REDIS_DB: 2
+      # BOT_TOKEN: "5815596965:AAFkz3vZv8_RybaPjHWUP4irKE3MCf3H9M8"
+      
+  # chat_gpt_telegram_en:
+    # image: chat_gpt_telegram_core
+    # restart: always
+    # volumes:
+      # - "./../chat_gpt_telegram/static_texts:/home/static_texts:ro"
+    # environment:
+      # HEADERS_FILE_NAME: "language_headers_en.json"
+      # BD_PATH: "postgresql+asyncpg://skuki_net:admin@37.220.83.140/chat_gpt_english"
+      # REDIS_DB: 3
+      # BOT_TOKEN: "5845796767:AAEdSonO5zoro7nIxbiH6zOAPrmuoL8lZeU"
+
+

@@ -1,0 +1,95 @@
+{
+  "restart_button": "Volver a empezar",
+  "select_mode_button": "Seleccionar modo",
+  "coder_button": "Modo Programador",
+  "writer_button": "Modo Estándar",
+  "painter_button": "Generación de imágenes",
+  "internet_button": "Buscar en Internet",
+  "help_button": "Ayuda",
+  "balance_button": "Mi saldo",
+  "language_button": "UI LANGUAGE",
+  "model_button": "Modelo",
+  "cash_in_button": "Recargue el saldo de su cuenta",
+  "ref_button": "Enlace de referencia",
+  "no_mail_button": "No necesito un chequ",
+  "crypto_button": "Crypto",
+  "stripe_button": "USD",
+  "1picture": "1 imagen",
+  "3picture": "3 imágenes",
+  "5picture": "5 imágenes",
+  "refs_quotes_button": "Citas, enlaces",
+  "select_mode_chain_button": "Integridad, velocidad",
+  "market_button": "Buscar país",
+
+  "none_ref_button": "Sin enlaces ni citas",
+  "only_ref_button": "Sólo enlaces",
+  "ref_quotes_button": "Enlaces+Citas",
+
+  "no_chain_button": "Búsqueda rápida",
+  "use_chain_button": "Búsqueda detallada",
+
+
+
+  "n_picture_description": "Modo de generar {} imágenes",
+  
+  "cash_in_3usd_button": "$3",
+  "cash_in_5usd_button": "$5",
+  "cash_in_10usd_button": "$10",
+  "cash_in_20usd_button": "$20",
+  "cash_in_50usd_button": "$50",
+  "cash_in_100usd_button": "$100",
+  "cash_in_500usd_button": "$500",
+  
+  "cash_in_5usd_stripe_button": "$5",
+  "cash_in_10usd_stripe_button": "$10",
+  "cash_in_15usd_stripe_button": "$15",
+  "cash_in_25usd_stripe_button": "$25",
+  "cash_in_50usd_stripe_button": "$50",
+  "cash_in_100usd_stripe_button": "$100",
+  "cash_in_500usd_stripe_button": "$500",
+  
+  "cash_in_description": "Para confirmar el pago, siga el enlace:",
+  "tg_invoice_title": "Reposición del saldo de tokens",
+  "tg_invoice_description": "Servicio de generación de texto e imágenes.",
+
+  "language_msg": "Choose the language",
+  "model_msg": "Elija el modelo de motor:\n\nGPT_3.5 - el modelo es más grande, responde en un lenguaje más vivo, bueno como conversador, pero como es habitual para un buen conversador a menudo inventa cosas en lugar de hechos.\n\nGPT_3.5_Turbo - el motor original de ChatGPT. El modelo es más pequeño, por lo que funciona más rápido. Se centra más en las respuestas correctas y es más pedante.",
+  "mode_msg": "Seleccione el modo de bot",
+  "welcome": "ChatGPT3 telegram bot\nPregúntame lo que quieras o pide hacer un dibujo\nSi quieres borrar tu historial de chat, haz clic en \"Volver a empezar\" o envía /start",
+  "ref_link_msg": "Tu enlace de referencia:\n",
+  "success_ref_msg": "¡Tu referido recibió tokens por la invitación!",
+  "unsuccess_ref_msg": "Ya usaste el bot, tu referido no recibió tokens :(",
+  "switch_programmer": "Modo Programador. Este modo genera un código mejor.",
+  "switch_writer": "Modo Estándar. Este es el modo normal por defecto.",
+  "switch_painter": "Generación de imágenes. El modelo utilizado es DALL-E. Una descripción en inglés da mejores resultados. A la red neuronal le gusta la máxima especificidad en las consultas, las descripciones detalladas, incluida la descripción de la atmósfera, el estilo, la luz... Si una imagen falla, siempre puedes ajustar la consulta e intentarlo de nuevo.",
+  "switch_internet": "Modo con búsqueda en internet",
+
+  "internet_ref_mode_select": "Seleccione la opción de indicar las fuentes de la respuesta",
+  "internet_use_chain_mode_select": "Indexación rápida o indexación detallada (bastante más larga)",
+  "internet_market_select": "Introduzca el país (por ejemplo, USA): esto afecta a los resultados de la búsqueda, el motor de búsqueda tiene en cuenta de qué país procede la consulta a la hora de ofrecer resultados para búsquedas más relevantes.",
+  "internet_welcome": "Ahora puedes hacer consultas, yo utilizaré una búsqueda en Internet para encontrar las referencias más relevantes y formular una respuesta.",
+  "internet_balance_is_over": "Necesitas al menos 5000 tokens para realizar solicitudes de Internet",
+
+
+
+
+  "help": "El bot puede generar texto en formato de diálogo, recuerda y entiende el contexto, el significado de palabras y expresiones y también puede generar imágenes. Capaz de comunicarse y ser un amigo, un asistente, lo que sea. \n \nCapaz de:   \n-generar, editar y explicar código (Python, Rust, C++, JavaScript, Go, Perl, PHP, Ruby, Swift, TypeScript, SQL, Shell, etc.)   \n-escribir reseñas, historias cortas, chistes, críticas, volver a contar artículos   \n-responder a preguntas en diversos campos (política, geografía, idiomas, ciencias exactas, psicología, cultura, etc.)   \n-traducir a diferentes idiomas\n-crear soluciones conceptuales a problemas planteados\n-generar imágenes\n-conectarse a Internet\n\nNo sabe\n -hacer recordatorios, iniciar un diálogo\n \nLimitaciones: el bot es creativo y a veces puede inventar y engañar, no toda la información es 100% fiable\nCualquier pregunta que le interese puede hacerla en nuestro chat: @ChatGPTBot_Discussions",
+  "help_en": "El bot puede generar texto en formato de diálogo, recuerda y entiende el contexto, el significado de palabras y expresiones y también puede generar imágenes. Capaz de comunicarse y ser un amigo, un asistente, lo que sea. \n \nCapaz de:   \n-generar, editar y explicar código (Python, Rust, C++, JavaScript, Go, Perl, PHP, Ruby, Swift, TypeScript, SQL, Shell, etc.)   \n-escribir reseñas, historias cortas, chistes, críticas, volver a contar artículos   \n-responder a preguntas en diversos campos (política, geografía, idiomas, ciencias exactas, psicología, cultura, etc.)   \n-traducir a diferentes idiomas\n-crear soluciones conceptuales a problemas planteados\n-generar imágenes\n-conectarse a Internet\n\nNo sabe\n -hacer recordatorios, iniciar un diálogo\n \nLimitaciones: el bot es creativo y a veces puede inventar y engañar, no toda la información es 100% fiable\nCualquier pregunta que le interese puede hacerla en nuestro chat: @UnlimBotDiscussion",
+
+  "wait_answer": "Por favor, espere, estoy pensando en una respuesta",
+  "error_image_limit": "Escriba una solicitud de menos de 1000 caracteres",
+  "error_image_safety": "Escribe una solicitud no tan vulgar",
+  "balance_is_over": "Tu balance diario ha subido, pregúntame mañana",
+  "balance_is_over_en": "Tu saldo diario se ha acabado, pregúntame mañana. El límite diario gratuito es de 20000 tokens, 1000 tokens son unas 700 palabras en inglés o 150 palabras de otro idioma (los caracteres especiales también cuentan como una palabra aparte). Cualquier pregunta o respuesta del bot consume el saldo. Con la creciente carga, pronto tendremos que hacer el límite de 10000 tokens libres por día. Para los suscriptores de @UnlimBotAnnouncements, mantendremos el saldo gratuito en 20000 tokens. Además, este canal os ayudará a recuperar el acceso si el bot es bloqueado por Telegram por alguna razón",
+  "error_from_api": "Ha habido un error en mi cabeza, parece que me he roto :(\nRepetir la petición más tarde y/o hacerla más pequeña, essayez d'effacer votre historique de chat.",
+  "max_tokens_in_request": "Ha superado el recuento de palabras de la consulta, acórtela o borre el historial de diálogo.",
+  "cash_in_welcome": "Puedes recargar más allá del límite diario a razón de $0.0067 por cada 1000 tokens, 1000 tokens - unas 700 palabras en inglés o 150 palabras de otro idioma (los caracteres especiales también cuentan como una palabra independiente). La generación de imágenes consume 2000 tokens.\nEjemplo: $6.6 dan unas 700000 palabras en inglés o 150.000 palabras de otro idioma y caracteres especiales (,!@#$%, etc.). Tanto la pregunta como la respuesta del bot consumen el saldo. Los mensajes cortos pueden consumir más tokens.\nNo hay tarifas ilimitadas. También se añadirá un límite gratuito cada día.\nPara métodos de pago distintos a Telegramm, o si el saldo no se acredita, escribe @pkunlim.\nEl saldo se acredita en un minuto, normalmente rápido.",
+  "cash_in_select_pay_method": "Elija un método de pago",
+  "cash_in_select_pay_method_en": "Elija un método de pago",
+  "cash_in_mail_welcome":"Introduzca una dirección de correo electrónico para recibir una chequ",
+  "mail_error": "Correo no válido. Por favor, introdúzcalo de nuevo",
+  "cash_in_error": "Se ha producido un error, póngase en contacto con @pkunlim",
+  "cash_in_success": "El pago del importe: {} {} se ha realizado correctamente",
+  "balance_msg": "Tu saldo: {} tokens. 1000 tokens son aproximadamente 700 palabras en inglés o 150 palabras en otro idioma (los caracteres especiales también cuentan como una palabra separada). Generar una imagen consume 2000 tokens.\nCualquier pregunta que le interese puede hacerla en nuestro chat: @ChatGPTBot_Discussions",
+  "balance_msg_en": "Tu saldo: {} tokens. 1000 tokens son aproximadamente 700 palabras en inglés o 150 palabras en otro idioma (los caracteres especiales también cuentan como una palabra separada). Generar una imagen consume 2000 tokens.\nCualquier pregunta que le interese puede hacerla en nuestro chat: @UnlimBotDiscussion"
+}

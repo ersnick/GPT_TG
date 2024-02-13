@@ -1,0 +1,95 @@
+{
+  "restart_button": "Recommencer",
+  "select_mode_button": "Sélectionner le mode",
+  "coder_button": "Mode Programmateur",
+  "writer_button": "Mode Normal",
+  "painter_button": "Génération d'images",
+  "internet_button": "Recherche sur le Web",
+  "help_button": "Aide",
+  "balance_button": "Mon équilibre",
+  "language_button": "UI LANGUAGE",
+  "model_button": "Modèle",
+  "cash_in_button": "Augmenter le solde du compte",
+  "ref_button": "Lien de référence",
+  "no_mail_button": "Je n'ai pas besoin d'un ticket",
+  "crypto_button": "Crypto",
+  "stripe_button": "USD",
+  "1picture": "1 image",
+  "3picture": "3 images",
+  "5picture": "5 images",
+  "refs_quotes_button": "Citations, liens",
+  "select_mode_chain_button": "Exhaustivité, rapidité",
+  "market_button": "Rechercher un pays",
+
+  "none_ref_button": "Pas de liens ni de devis",
+  "only_ref_button": "Liens uniquement",
+  "ref_quotes_button": "Liens+Devis",
+
+  "no_chain_button": "Recherche rapide",
+  "use_chain_button": "Recherche détaillée",
+
+
+
+  "n_picture_description": "Mode de génération de {} images",
+  
+  "cash_in_3usd_button": "$3",
+  "cash_in_5usd_button": "$5",
+  "cash_in_10usd_button": "$10",
+  "cash_in_20usd_button": "$20",
+  "cash_in_50usd_button": "$50",
+  "cash_in_100usd_button": "$100",
+  "cash_in_500usd_button": "$500",
+  
+  "cash_in_5usd_stripe_button": "$5",
+  "cash_in_10usd_stripe_button": "$10",
+  "cash_in_15usd_stripe_button": "$15",
+  "cash_in_25usd_stripe_button": "$25",
+  "cash_in_50usd_stripe_button": "$50",
+  "cash_in_100usd_stripe_button": "$100",
+  "cash_in_500usd_stripe_button": "$500",
+  
+  "cash_in_description": "Pour confirmer le paiement, suivez le lien :",
+  "tg_invoice_title": "Réapprovisionnement du solde de jetons",
+  "tg_invoice_description": "Service de génération de texte et d'images",
+
+  "language_msg": "Choose the language",
+  "model_msg": "Choisissez le modèle:\n\nGPT_3.5 - le moteur original de ChatGPT. Le modèle est plus grand, répond dans un langage plus vivant, bon comme un conversationnel, mais comme il est coutume pour un bon conversationnel invente souvent des choses au lieu de faits.\n\nGPT_3.5_Turbo - le modèle est plus petit, donc il travaille plus rapidement. Il se concentre davantage sur les bonnes réponses.",
+  "mode_msg": "Sélectionnez le mode du bot",
+  "welcome": "ChatGPT3 telegram bot\nAskate me for something ou demandez à faire un dessin\nSi vous voulez effacer l'historique du dialogue, cliquez sur le bouton \"Recommencer\" ou envoyez la commande /start",
+  "ref_link_msg": "Votre lien de référence:\n",
+  "success_ref_msg": "Votre filleul a reçu des jetons pour l'invitation!",
+  "unsuccess_ref_msg": "Vous avez déjà utilisé le bot, votre filleul n'a pas reçu de jetons :(",
+  "switch_programmer": "Mode programmateur. Ce mode génère un meilleur code.",
+  "switch_writer": "Mode Normal. Il s'agit du mode normal par défaut.",
+  "switch_painter": "Génération d'images. Le modèle utilisé est DALL-E. Une description en anglais donne de meilleurs résultats. Le réseau neuronal aime la spécificité maximale des requêtes, les descriptions détaillées, y compris la description de l'atmosphère, du style, de la lumière... Si une image échoue, vous pouvez toujours ajuster la requête et réessayer.",
+  "switch_internet": "Mode avec recherche sur Internet",
+
+  "internet_ref_mode_select": "Choisissez l'option pour indiquer les sources de la réponse",
+  "internet_use_chain_mode_select": "Indexation rapide ou indexation détaillée (beaucoup plus longue)",
+  "internet_market_select": "Tapez le pays (par exemple, USA) : cela affecte les résultats de la recherche, le moteur de recherche prenant en compte le pays d'où provient la requête lorsqu'il donne des résultats pour des recherches plus pertinentes.",
+  "internet_welcome": "Vous pouvez maintenant poser des questions, je ferai une recherche sur Internet pour trouver les références les plus pertinentes et formuler une réponse.",
+  "internet_balance_is_over": "Vous avez besoin d'au moins 5000 jetons pour faire des requêtes Internet",
+
+
+
+
+  "help": "Le bot peut générer du texte sous forme de dialogue, il se souvient et comprend le contexte, le sens des mots et des expressions et peut également générer des images.. Il est capable de communiquer et d'être un ami, un assistant, etc. \n \nCapable de :   \n-générer, modifier et expliquer du code (Python, Rust, C++, JavaScript, Go, Perl, PHP, Ruby, Swift, TypeScript, SQL, Shell, etc.)   \n-écrire des critiques, des nouvelles, des blagues, des comptes-rendus, des récits d'articles.   \n-répondre à des questions dans divers domaines (politique, géographie, langues, sciences exactes, psychologie, culture, etc.)   \n-Traduire dans différentes langues\n-créer des solutions conceptuelles aux problèmes posés.\n-générer des images\n-se connecter à l'Internet\n\nNe sait pas comment :\n\n -faire des rappels, engager un dialogue\n \nLimites : le robot est créatif et peut parfois inventer et tricher, toutes les informations ne sont pas fiables à 100%.\nToute question qui vous intéresse peut être posée dans notre chat : @ChatGPTBot_Discussions",
+  "help_en": "Le bot peut générer du texte sous forme de dialogue, il se souvient et comprend le contexte, le sens des mots et des expressions et peut également générer des images.. Il est capable de communiquer et d'être un ami, un assistant, etc. \n \nCapable de :   \n-générer, modifier et expliquer du code (Python, Rust, C++, JavaScript, Go, Perl, PHP, Ruby, Swift, TypeScript, SQL, Shell, etc.)   \n-écrire des critiques, des nouvelles, des blagues, des comptes-rendus, des récits d'articles.   \n-répondre à des questions dans divers domaines (politique, géographie, langues, sciences exactes, psychologie, culture, etc.)   \n-Traduire dans différentes langues\n-créer des solutions conceptuelles aux problèmes posés.\n-générer des images\n-se connecter à l'Internet\n\nNe sait pas comment :\n\n -faire des rappels, engager un dialogue\n \nLimites : le robot est créatif et peut parfois inventer et tricher, toutes les informations ne sont pas fiables à 100%.\nToute question qui vous intéresse peut être posée dans notre chat : @UnlimBotDiscussion",
+
+  "wait_answer": "Attendez s'il vous plaît, je réfléchis à une réponse",
+  "error_image_limit": "Rédigez une requête de moins de 1000 caractères",
+  "error_image_safety": "Écrivez une demande pas si vulgaire",
+  "balance_is_over": "Votre solde quotidien est dépassé, demandez-le moi demain\nLa limite quotidienne gratuite est de 10 000 mots et caractères spéciaux anglais ou de 3 000 mots d'une autre langue. La génération d'une image consomme 2000 jetons.",
+  "balance_is_over_en":"Votre solde quotidien est dépassé, demandez-le moi demain\nLa limite quotidienne gratuite est de 10 000 mots et caractères spéciaux anglais ou de 3 000 mots d'une autre langue. La génération d'une image consomme 2000 jetons.\nToute question ou réponse du robot consomme le solde. \nAvec l'augmentation de la charge, nous devrons bientôt atteindre la limite de 10 000 jetons gratuits par jour. Pour les abonnés de @UnlimBotAnnouncements, nous maintiendrons le solde gratuit à 20 000 jetons. \nEn outre, ce canal vous aidera à retrouver l'accès si le bot est bloqué par Telegram pour une raison quelconque",
+  "error_from_api": "Il y a eu une erreur dans ma tête, il semble que j'ai craqué :(\nRépétez la demande ultérieurement et/ou réduisez-la, intente borrar el historial de conversaciones.",
+  "max_tokens_in_request": "Vous avez dépassé le nombre de mots de la requête, raccourcissez-la ou effacez l'historique des dialogues.",
+  "cash_in_welcome": "Vous pouvez recharger au-delà de la limite quotidienne à un taux de $0.0067 par 1000 jetons. 1000 jetons - environ 700 mots anglais ou 150 mots d'une autre langue (les caractères spéciaux comptent également comme un mot distinct). La génération d'images consomme 2000 jetons.\nExemple : $6.6 donnent environ 700 mots anglais ou 150 mots d'une autre langue et des caractères spéciaux (,!@#$%, etc.). La question et la réponse du bot consomment le solde. Les messages courts peuvent consommer plus de jetons.\nIl n'y a pas de tarif illimité. Une limite gratuite sera également ajoutée chaque jour.\nPour les méthodes de paiement autres que Telegramm, ou si le solde n'est pas crédité, écrivez @pkunlim.\nLe solde est crédité dans la minute qui suit, généralement rapidement.",
+  "cash_in_select_pay_method": "Choisissez un mode de paiement",
+  "cash_in_select_pay_method_en": "Choisissez un mode de paiement",
+  "cash_in_mail_welcome":"Entrez une adresse e-mail pour recevoir un ticket",
+  "mail_error": "e-mail non valide. Veuillez entrer à nouveau",
+  "cash_in_error": "Une erreur s'est produite, contactez @pkunlim",
+  "cash_in_success": "Paiement du montant : {} {} a été effectué avec succès",
+  "balance_msg": "Votre solde : {} jetons. 1000 tokens correspondent à environ 700 mots anglais ou 150 mots d'une autre langue (les caractères spéciaux comptent également comme un mot). La génération d'une image consomme 2000 jetons.\nToute question qui vous intéresse peut être posée dans notre chat : @ChatGPTBot_Discussions",
+  "balance_msg_en": "Votre solde : {} jetons. 1000 tokens correspondent à environ 700 mots anglais ou 150 mots d'une autre langue (les caractères spéciaux comptent également comme un mot). La génération d'une image consomme 2000 jetons.\nToute question qui vous intéresse peut être posée dans notre chat : @UnlimBotDiscussion"
+}
